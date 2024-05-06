@@ -245,9 +245,7 @@ nav {
 }
 
 .header__image img {
-  max-width: 80vh;
-  height: 100vh;
-  display: flex;
+  max-width: 450px;
   margin-inline: auto;
   border-radius: 25rem;
 }
